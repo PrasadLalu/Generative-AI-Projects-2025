@@ -21,3 +21,7 @@ langserve
 sse_starlette
 duckduckgo-search
 psycopg2
+validators==0.28.1
+pytube
+unstructured
+youtube-transcript-api
