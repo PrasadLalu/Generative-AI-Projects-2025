@@ -25,3 +25,4 @@ validators==0.28.1
 pytube
 unstructured
 youtube-transcript-api
+numexpr
